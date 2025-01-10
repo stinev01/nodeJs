@@ -9,12 +9,13 @@ This project demonstrates the basics of using Node.js as a runtime environment f
 - **Hello, World!**: A simple example of Node.js execution.
 - **Basic Node.js Server**: Setting up and running a server.
 
-## How to Run
-1. Clone this repository:
+## Steps to Run
+
+1. **Install Node.js**: Download and install Node.js from the [official website](https://nodejs.org/).
+
+2. **Clone the Repository**:
    ```bash
    git clone https://github.com/<your-username>/nodejs-tutorial.git
-
-
 ### **What This README Covers**
 1. **Project Overview**: Details about the project purpose and scope.
 2. **Steps to Run**: Clear instructions on how to execute the project.
