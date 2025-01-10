@@ -16,15 +16,13 @@ This project demonstrates the basics of using Node.js as a runtime environment f
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/<your-username>/nodejs-tutorial.git
+
 ### **What This README Covers**
-1. **Project Overview**: Details about the project purpose and scope.
-2. **Steps to Run**: Clear instructions on how to execute the project.
-3. **Issue Documentation**: A user-friendly explanation of the Git push issue, why it happens, and how to fix it.
-4. **Formatting**: Used Markdown syntax (headings, code blocks, lists) for clarity and readability.
-
-
-Node.js is an open-source, cross-platform server environment that allows developers to execute JavaScript on the server side.
+**Project Overview**: Node.js is an open-source, cross-platform server environment that allows developers to execute JavaScript on the server side.
  It employs asynchronous programming, enabling efficient handling of multiple tasks concurrently without waiting for operations to complete.
  This non-blocking, single-threaded approach makes Node.js memory efficient and well-suited for event-driven applications.
  With built-in modules, developers can perform tasks such as file manipulation, database interactions, and handling HTTP requests.
  Additionally, Node.js can generate dynamic page content and manage form data, making it a versatile tool for server-side development.
+
+
+
