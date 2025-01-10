@@ -1,5 +1,27 @@
 NODE js
 
+# Node.js Tutorial Project
+
+This project demonstrates the basics of using Node.js as a runtime environment for JavaScript, following the 
+[W3Schools Node.js Get Started tutorial](https://www.w3schools.com/nodejs/nodejs_get_started.asp).
+
+## Features
+- **Hello, World!**: A simple example of Node.js execution.
+- **Basic Node.js Server**: Setting up and running a server.
+
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/<your-username>/nodejs-tutorial.git
+
+
+### **What This README Covers**
+1. **Project Overview**: Details about the project purpose and scope.
+2. **Steps to Run**: Clear instructions on how to execute the project.
+3. **Issue Documentation**: A user-friendly explanation of the Git push issue, why it happens, and how to fix it.
+4. **Formatting**: Used Markdown syntax (headings, code blocks, lists) for clarity and readability.
+
+
 Node.js is an open-source, cross-platform server environment that allows developers to execute JavaScript on the server side.
  It employs asynchronous programming, enabling efficient handling of multiple tasks concurrently without waiting for operations to complete.
  This non-blocking, single-threaded approach makes Node.js memory efficient and well-suited for event-driven applications.
